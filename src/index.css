@@ -1,1 +1,6 @@
 @import url(../node_modules/semantic-ui-css/semantic.min.css);
+
+
+#root>.ui.massive.menu {
+    border-radius: 0 !important;
+}
