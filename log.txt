@@ -1,0 +1,2119 @@
+commit f4fd219aa14cb80ac1e546b65cb891a39b4f9e3d
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Mon Aug 16 12:00:00 2021 +0300
+
+    add gitlog
+
+commit d01c634db4aff710d5785fa1527de517ae89e769
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Mon Aug 16 12:00:00 2021 +0300
+
+    Update application metadata.
+
+commit d3af972f9e9155907fece6e77a4c0e20032eeeac
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Sun Aug 15 12:00:00 2021 +0300
+
+    Add story book and stories
+
+commit accbc2c5d95bcea9dd661b0e07b93081ff09db11
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Thu Aug 12 12:00:00 2021 +0300
+
+    Update the share button
+
+commit 94eb67a924d09d59949a295e95a367cb1da33420
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Sat Aug 7 12:00:00 2021 +0300
+
+    Add unit tests
+
+commit 795be4262edb3c6f7cef02e07a9052922137474f
+Author: Mohamed Anes MOSTEFAOUI <m.anas@outlook.com>
+Date:   Thu Aug 5 12:00:00 2021 +0300
+
+    Fix crash on production build.
+
+commit 97cf506a63c6e8f6d7a695807b265fbbc0e8a86d
+Merge: dcee5b2 8fceef3
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Apr 30 14:36:00 2021 +0500
+
+    Merge pull request #20 from SafdarJamal/release/v5.1.0
+    
+    Release v5.1.0
+
+commit 8fceef3eaee4e031b31e9bf24f0ddc539507fda3
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Apr 28 21:09:40 2021 +0500
+
+    Release v5.1.0
+
+commit 759b6ea313e3698752678b6491720af5af88e03c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Apr 28 20:50:24 2021 +0500
+
+    Update dependencies
+
+commit 3c9aa036dc93546fc70a3015278fa427aab9ab9c
+Merge: 1bcdd72 a330241
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Apr 26 19:42:50 2021 +0500
+
+    Merge pull request #19 from SafdarJamal/feature/default-settings
+    
+    Create Default Settings Feature
+
+commit a3302419e6f9e81d90d99c1add35324b678d6a1e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 25 19:34:22 2021 +0500
+
+    Change default countdownTime
+
+commit 8d17e5ce912104abc1506f7fea3ef5fa37d08eb5
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 25 19:31:18 2021 +0500
+
+    Change default numOfQuestions
+
+commit d0d39545d15ecc7000f98838585eae5e3b266101
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 25 19:26:38 2021 +0500
+
+    Improve the main screen's user experience
+
+commit a19e89b97075378d312f4908e91d97705e75402c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 11 19:55:19 2021 +0500
+
+    Set default countdownTime
+
+commit e4de5d3a1c049d9369b9693a9eba3b7cb756ab46
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 11 19:47:16 2021 +0500
+
+    Set default questionsType
+
+commit a57b51e6afe91b83d7f3bb542dd08d2a9d0e4f4b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 11 19:35:38 2021 +0500
+
+    Set default difficulty
+
+commit 2352bd74797dea6b76f0808d75b2b8be6a19f9fb
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 11 19:33:43 2021 +0500
+
+    Set default numOfQuestions
+
+commit f3ebc6996503590dd5208787a831ffa81d8c2c36
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 11 19:32:52 2021 +0500
+
+    Set default category
+
+commit 1bcdd72c999d095979459f544730b2247e6cf792
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Apr 4 19:12:36 2021 +0500
+
+    Update dependencies
+
+commit 5bb796598a554383edd9118b7167cb532ec1c2f2
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Mar 25 22:46:25 2021 +0500
+
+    Fix: CI build fails on Node.js version 12
+
+commit 17f2b097df1f17f3eee2b70cbe79b23e44f29498
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Mar 25 22:37:41 2021 +0500
+
+    Update .gitignore
+
+commit 473664a1bad6bd6eafb1214932e08bc7662b995f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Mar 25 22:26:47 2021 +0500
+
+    Update dependencies
+
+commit 3712f12e7672c12c6184006320bdce85cafa38df
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Feb 18 19:48:50 2021 +0500
+
+    Update app description
+
+commit dcee5b21964ca78f241a0c1ec858b78cec1af9f9
+Merge: a6f5544 0a035f1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jan 11 00:50:17 2021 +0500
+
+    Merge pull request #16 from SafdarJamal/release/v5.0.0
+    
+    Release v5.0.0
+
+commit 0a035f18bfc9f535ef0e97a61700db00e73c4b52
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jan 11 00:37:25 2021 +0500
+
+    Release v5.0.0
+
+commit e45cd493c15fc3625fd79b9387ff2b72abb980ea
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 23:37:18 2021 +0500
+
+    Add mockup image
+
+commit a7027b85fe1e197c02e98f984494f7bb4b590bdb
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:52:50 2021 +0500
+
+    Update README.md
+
+commit cd428cd7f90908233df95c6795535c400092707b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:52:27 2021 +0500
+
+    Update README.md
+
+commit 05255e016b8de8dd9f69bcaf7b781b0525df83b0
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:33:52 2021 +0500
+
+    Update app description
+
+commit 18eccec1418ed36fdbb51a9f1a61c0c54cd095af
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:21:38 2021 +0500
+
+    Update app title
+
+commit b32718a625304eadf93f2e1015b89c70b3b174cd
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:02:28 2021 +0500
+
+    Update dependencies
+
+commit 81781cadd2cd121bf60ef2ea3c85218c528c1c33
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 22:00:59 2021 +0500
+
+    Change Main component's heading and button text
+
+commit ee87a447f1841a3ad0a338ab0457e133ae9fc8f8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 21:51:15 2021 +0500
+
+    Refactor Result component
+
+commit 12665fdb986d2ae57be82f02e57253fdc619cf59
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 21:50:43 2021 +0500
+
+    Refactor App component
+
+commit d741092afec93f4c4b4de3126731b52c699b46db
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 10 20:29:40 2021 +0500
+
+    Create .gitkeep file
+
+commit ed56b2ddae4e7c74553c6143fb0875947d41a4c7
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 23:25:33 2021 +0500
+
+    Update time up alert message
+
+commit 2875503704d3326f3c0f840f0195422f9cc6c26e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 23:12:35 2021 +0500
+
+    Add homepage property in package.json
+
+commit 5ff30997559f735297d3d218214bc08f52cc28c0
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 22:37:16 2021 +0500
+
+    Humanize time duration
+
+commit 5d4bee284e3443ba316a3bc36be49d2af16a6865
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 21:48:17 2021 +0500
+
+    Refactor timeConverter utility
+    
+    Refactor timeConverter utility to reflect time selector changes
+
+commit e1594788c12e9c859ac63bcd66f6b63e8c220387
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 21:38:33 2021 +0500
+
+    Create a new countdown time selector
+
+commit c5116f648c27ec6228c64602c9aad5a9e1f92761
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 16:39:28 2021 +0500
+
+    Add build status badge
+
+commit e18cf5dd972b841279b8bc951093c23761abca57
+Merge: 455ccfe 3640a6c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 16:07:03 2021 +0500
+
+    Merge pull request #15 from SafdarJamal/feature/ci-workflow
+    
+    Create Continuous Integration (CI) Workflow
+
+commit 3640a6cdf521825f8c934c91fc61040c54ded14f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 16:00:32 2021 +0500
+
+    Fix: CI build fails on Node.js version 10 and 12
+
+commit 7b2a7770340663a77d8888a8fef82a365da59214
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 9 15:21:40 2021 +0500
+
+    Create node.js.yml
+
+commit 455ccfe884c8da61ed81d67f6ceeb21e8927feb9
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 8 23:43:47 2021 +0500
+
+    Change function name
+
+commit 37831d062e2d719fd7e25fe40669011c217ea428
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 8 23:41:05 2021 +0500
+
+    Increase QNA table size and make it selectable
+
+commit 4a58147dd49a7414e9ded759ffc2a69de99b16d1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 8 23:02:24 2021 +0500
+
+    Improve main screen UX
+
+commit b285afbdaa5d9a61331e6f8d294af3c95683e521
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 8 18:27:15 2021 +0500
+
+    Fix ShareButton's modal mobile view
+
+commit 466ccca8afb4198899f9046a2bc154cfce5c8555
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 23:53:58 2021 +0500
+
+    Refactor Result component
+
+commit e03f5395728feefce4febb180df27e5615e1e9c8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 23:07:05 2021 +0500
+
+    Update README
+
+commit c4f8517317b35a09853a4d5c3a44099643d64326
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 22:50:42 2021 +0500
+
+    Create tech stack section in README
+
+commit 4ec4663e2a2ac74a5dbb2b43f3bb2e1772861e3b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 22:12:12 2021 +0500
+
+    Create credits section in README
+
+commit 25b5f918770a5ff7f7d58d2d2bc4c9db2cfde565
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 22:08:34 2021 +0500
+
+    Update README
+
+commit aa335db470222c43851cabf3950288fedc09a733
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 21:59:42 2021 +0500
+
+    Update app description
+
+commit 59a04562e1c6b1d751732b06c3528ab15fba4592
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 21:56:30 2021 +0500
+
+    Create UI modal for web sharing
+
+commit df0fbd7ca55ff8e493c00705056b6366ec1bbd1e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 01:34:27 2021 +0500
+
+    Add author details
+
+commit 32964a98d6c6945910b4580fbec881b8dba23e18
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 01:31:29 2021 +0500
+
+    Update project title and description
+
+commit dbf788e3d5005fcb450a94b1cd58424607e6c9aa
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 01:26:03 2021 +0500
+
+    Refactor Header component
+
+commit 1c5533ea0165039b92c8564644364f8e3ce4cd60
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 00:26:37 2021 +0500
+
+    Delete code image
+
+commit d45fa62498eb4ac755b76cb88e41642c680e4350
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jan 7 00:26:15 2021 +0500
+
+    Replace code image with mind
+
+commit 69115808a4f437722da91378b2838519455b6621
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 23:33:47 2021 +0500
+
+    Update LICENSE
+
+commit 91296305a0a279ea32225f52a3d9dfeeac2749b8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 23:21:21 2021 +0500
+
+    Create social media sharing feature
+
+commit 316dd06828baf4f4e301eaca00543f699f540c4e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 00:28:28 2021 +0500
+
+    Add License badge in README
+
+commit 57c864dbabc22feb28e2da4177af160626f91500
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 00:27:02 2021 +0500
+
+    Add GitHub Release badge in README
+
+commit 117467bf73f61c2f4d79b76faa9c0e95d04518cd
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 00:09:35 2021 +0500
+
+    Update README's development section
+
+commit f8af963c9334dda080a8b13b841f7f31555fe823
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jan 6 00:02:08 2021 +0500
+
+    Fix error handling edge case
+
+commit 8b275c6317d803689059d960dec952aee4e8eb1f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jan 5 23:58:38 2021 +0500
+
+    Enhance UI/UX for offline usage
+
+commit 9d8c35603607c770c16e6ced4b6a5faa3b1c3238
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jan 5 21:53:21 2021 +0500
+
+    Delete index.test.js
+
+commit 7ce301c17b4d7d26b0c81170d3af08644a88c52f
+Merge: e72190c 74955ae
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jan 5 21:48:46 2021 +0500
+
+    Merge pull request #14 from SafdarJamal/feature/create-react-app-v4
+    
+    Upgrade to Create React App v4
+
+commit 74955ae846a3369309ce831b4c286772710a3287
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jan 5 21:31:14 2021 +0500
+
+    Ignore .eslintcache file
+
+commit 3a05189015f1f68190c554a8ae12877ddba62167
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jan 5 21:30:06 2021 +0500
+
+    Upgrade to CRA v4
+
+commit e72190cb305b7f8107442c2a8e3511f8c66b68a6
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jan 4 23:00:08 2021 +0500
+
+    Create UI for error handling
+
+commit fa645087e4c2e00f33b602ad47b696d7a648fe44
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jan 4 22:00:01 2021 +0500
+
+    Create data shuffling functionality
+    
+    Randomizing quiz data when user retake the same quiz
+
+commit 8b2c479708f2a44fd63ad1157c81eb27fed602cc
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 3 23:35:42 2021 +0500
+
+    Enhance Main component's button UX
+
+commit 8d6d33ee6a17d64f36a1c93f1f93458644947bd8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 3 21:31:00 2021 +0500
+
+    Refactor Main component
+    
+    Refactor Main component to use the new array shuffling utility
+
+commit ab389d79060dbf7d2a4a8e4dc675a849ccf8d0b1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 3 21:09:47 2021 +0500
+
+    Create a utility method for shuffling arrays
+
+commit 874c11a730d1c5a99ffd1c2d6430d07b9b7d70be
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 3 20:59:05 2021 +0500
+
+    Refactor getLetter util
+
+commit 76975fead54c72b2d6c98411b4670437b72d5e3e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jan 3 20:55:41 2021 +0500
+
+    Delete getRandomNumber util
+
+commit bd89d6c90b59f81e50f73b15f5a2f756c31a6867
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 21:55:31 2021 +0500
+
+    Update Loader component
+
+commit 26c9e3cd2616773c15e021511ad7348fb063b3a7
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 21:39:47 2021 +0500
+
+    Fix some issues with error handling logic
+
+commit fde37cccf8c7e8a8e35df7168977e56aff028d12
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 19:56:46 2021 +0500
+
+    Make Dropdown a controlled component
+
+commit 7758e82f0df1661a3c6249682fd3ce9edcd0162f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 19:41:07 2021 +0500
+
+    Refactor constants
+
+commit 37f0373d5d4350f7a2e20930da32fe1f44c19305
+Merge: 3ac5c32 0dd2730
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 16:48:55 2021 +0500
+
+    Merge pull request #13 from SafdarJamal/feature/react-v17
+    
+    Upgrade to React v17
+
+commit 0dd273082f495a6f443344b1116b9d1e7a2f9897
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 16:43:05 2021 +0500
+
+    Fix "onClose" method deprecation warning
+    
+    Replace Swal's "onClose" method with "willClose"
+
+commit 374d4f30961290429a314eeaa6d0ddaf03027ad5
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jan 2 16:19:49 2021 +0500
+
+    Upgrade to React v17
+
+commit 3ac5c3204b99c7cfea448ed085b74287df92061d
+Merge: c3d0717 1988c3b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 22:44:50 2021 +0500
+
+    Merge pull request #12 from SafdarJamal/feature/refactor-pwa-implementation
+    
+    Refactor PWA Implementation
+
+commit 1988c3bee7fff38d04823c4da9097e1cd150c80b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 22:08:29 2021 +0500
+
+    Create meta description
+
+commit da21d054224dfd749125f2064c2e35c61870f36d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 22:05:29 2021 +0500
+
+    Delete unnecessary app manifest properties
+
+commit 843854c6b4561b742c92d6dc08d1b2ff9f38a147
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 21:38:10 2021 +0500
+
+    Update app title
+
+commit c7be28701e11302c3fc2b01e337dcef90f736f05
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 21:35:46 2021 +0500
+
+    Refactor index.html
+
+commit 81c1258b57a6a2ea935b28df29f347d8350f4523
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 21:31:33 2021 +0500
+
+    Refactor app manifest
+
+commit 633ac637e3f9f6307e4d8403dbc428a829630714
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 21:29:47 2021 +0500
+
+    Delete unnecessary icons
+
+commit a497470d1bc351489586062443e38195b4a3f4a9
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 20:53:37 2021 +0500
+
+    Fix browserconfig.xml link issue
+
+commit c3d07178435cff18065a0cd77bc7d39451548ffa
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 19:34:15 2021 +0500
+
+    Delete app screenshot
+
+commit f21dfd720b6d0154a0d9a3e7893fcdea39a3261a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jan 1 19:21:26 2021 +0500
+
+    Create styles index
+
+commit 124bed232740b526b983454cd3cbe8177481823d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 23:54:48 2020 +0500
+
+    Update dev dependencies
+
+commit d8820b675e4f3e311e3e8730a96f92bc73440775
+Merge: 9ec6ab2 afbcc11
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 23:47:26 2020 +0500
+
+    Merge pull request #11 from SafdarJamal/feature/semantic-ui-react-v2
+    
+    Upgrade to Semantic UI React v2
+
+commit afbcc11a7d59c3b9390e8a26c43472db12b5db85
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 23:38:39 2020 +0500
+
+    Install semantic-ui-react v2
+
+commit 9ec6ab2164e8c11a9b4918fd3159d2836f1c4823
+Merge: 3faecfd 256ec9d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 22:23:16 2020 +0500
+
+    Merge pull request #10 from SafdarJamal/feature/sweetalert2-v10
+    
+    Upgrade to SweetAlert2 v10
+
+commit 3faecfdb67664609543b4b7cbfa1871c4746cbd3
+Merge: d36b25e 18d82c1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 22:21:40 2020 +0500
+
+    Merge pull request #9 from SafdarJamal/feature/sweetalert2-v9
+    
+    Upgrade to SweetAlert2 v9
+
+commit 256ec9d360d689b42242e8907bf4240237441b9a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 22:05:19 2020 +0500
+
+    Install sweetalert2 v10
+
+commit 18d82c13d6fdf1da295da8bed90be6e9fcc1cdf9
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 21:43:29 2020 +0500
+
+    Fix sweetalert2 v9 breaking changes
+
+commit 053e754ada40c9cbfa7dcba03dd5a3abe328558c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 21:40:46 2020 +0500
+
+    Install sweetalert2 v9
+
+commit d36b25eec889878c03ed34b4cf58c7126cad600e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 18:50:53 2020 +0500
+
+    Update dependencies
+
+commit 9e20e6cf514bfa6912f7e561e3b0ad150022462e
+Merge: 93ae21b f27838f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 31 00:03:41 2020 +0500
+
+    Merge pull request #8 from SafdarJamal/feature/refactor-source-code
+    
+    Perform Extensive Code Refactoring
+
+commit 93ae21b7add5e2f7245faa560616d2fdb3b5f5be
+Merge: a6f5544 a27ce1c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 22:55:46 2020 +0500
+
+    Merge pull request #7 from SafdarJamal/feature/update-boilerplate
+    
+    Update Project's Boilerplate
+
+commit f27838fc008c8fd005ebe047f3f420975e5f7e75
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 22:41:25 2020 +0500
+
+    Update dependencies
+
+commit 3ab937c41d156d8eab6b1ec49059b5a72cc196bf
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 22:29:19 2020 +0500
+
+    Fix takenTime state diffrence
+    
+    Fix takenTime state diffrence between Countdown and Result component
+
+commit 0af184a224867a9a095fa868a72e020ed7efe68c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 20:39:14 2020 +0500
+
+    Fix eslint warning in Countdown component
+
+commit 146c6e3604b6e2e595d8a26486f2ba70cd4e1bf4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 20:38:11 2020 +0500
+
+    Fix countdown timer
+
+commit 5b43dfba213547c0a4ad63a6be0f9ea6d1ce26d1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 30 18:35:05 2020 +0500
+
+    Fix conditional rendering of app components
+
+commit 9f2700d1b8b766593ea262a209c4ab2e93fe9f37
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 12 21:58:17 2020 +0500
+
+    Refactor Quiz component
+    
+    Refactor Quiz component to use getLetterByNumber utility
+
+commit f90d9dbfe2fb0f152555bdf32a1142e97a72f4cf
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 12 21:54:03 2020 +0500
+
+    Create getLetterByNumber utility
+
+commit 05996cf93614f84418fc9da7776365bc66ab905f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 12 21:24:52 2020 +0500
+
+    Omit unnecessary state updates
+
+commit 0fbde220159b403f510f322ee0ff4b767e209e12
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 12 21:17:05 2020 +0500
+
+    Update App test
+
+commit f67dfdd69b0af4489176e1f37e12989a985fb900
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 10 21:02:42 2020 +0500
+
+    Rename timesUp function to timeOver
+
+commit f5bb8e05146f4c97174eaf07f8cb8e3a17e90d66
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Dec 10 20:52:51 2020 +0500
+
+    Update constants index
+
+commit e7e4b92369efa6c7fd07a453f2424822171d8227
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 22:06:48 2020 +0500
+
+    Implement type checking of Countdown component props
+
+commit e9a6ed7b117ee504237f70470a87ea931673974b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:56:08 2020 +0500
+
+    Implement type checking of Main component props
+
+commit 1e6e5188fd3f3f2d9026fb518b6e2b99756d3ba1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:51:12 2020 +0500
+
+    Implement type checking of Quiz component props
+
+commit 4f917363411ec6f5128bc1995883e68c2dc2ac81
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:45:57 2020 +0500
+
+    Implement type checking of Result component props
+
+commit 2e3be6660fc5b625049e39a0bd8d38f92038083f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:42:53 2020 +0500
+
+    Implement type checking of QA component props
+
+commit e55aac579e7113c001ab31957e1bd86fe838815e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:37:25 2020 +0500
+
+    Implement type checking of Stats component props
+
+commit f3ae52e22dc0dd4a208bd8209f65c16e99b4bcc0
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:21:40 2020 +0500
+
+    Refactor Quiz and Result components
+    
+    Refactor Quiz and Result components to reflect Countdown changes
+
+commit 01bf9fb298a41fd9339916fb732d59987d6534ab
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 21:08:09 2020 +0500
+
+    Refactor Countdown component
+
+commit 28b47a004739c3a2ba39da0e68bbef0272f9a1c3
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 20:42:40 2020 +0500
+
+    Refactor manual calculating of "score"
+    
+    Replace manual calculating of "score" with calculateScore utility
+    in Stats component
+
+commit ed1f40145f53b83168a6b53275e7b9364a75fc12
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 20:30:25 2020 +0500
+
+    Refactor timeConverter utility
+
+commit 766a68d9d6b498e2ea2621a3e93fb2e3c6f40ef4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 9 19:30:52 2020 +0500
+
+    Create calculateScore utility
+
+commit 50ee75b10975c07fb79d678061e4cafd941622c4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 20:32:27 2020 +0500
+
+    Add totalQuestions property in resultData object
+
+commit 8215cb47d26fc29045931aa35a040add7d33648f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 20:13:48 2020 +0500
+
+    Rename num of questions state
+
+commit 411eaa4e8412127984cf910bf108dcb6042c4b88
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 20:11:04 2020 +0500
+
+    Rename questions type state
+
+commit a3d87982c903989a60e20d0f10e624157548e9be
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 20:04:54 2020 +0500
+
+    Rename countdown time state
+
+commit a0a6cb91bcb44d5df99d2f9bc821bb7be873a49b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 20:00:06 2020 +0500
+
+    Fix constants export
+
+commit ae9b8c7279e60b10d037fc158ad99c98603e32a3
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 19:45:59 2020 +0500
+
+    Rethink error handling
+
+commit a03422b82e45cbd27e6590ebbdbf8e194fcc1a22
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 18:11:58 2020 +0500
+
+    Refactor Main component's Button rendering logic
+
+commit e81bc49c97b576d210c89b513ff17eb1823791de
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 18:02:45 2020 +0500
+
+    Refactor App component to reflect Main changes
+
+commit 03679b4d3e34a18cf6e47f107a94d72c92543ce8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 17:59:09 2020 +0500
+
+    Move data handling logic into Main component
+
+commit 46000b30d67caaeb9a57d677a82a3c1b6f8e733c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 16:57:09 2020 +0500
+
+    Integrate Layout into App component
+
+commit 9cd257212e4d194bb7aef76a98a66e8ff9a0be07
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 16:54:31 2020 +0500
+
+    Create Layout component
+
+commit c1c610375b2519219dc321ad98d80897d038819c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 16:51:31 2020 +0500
+
+    Install prop-types
+
+commit 30396f4662e187dea1e82c30e13ebdece506bdab
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 01:50:08 2020 +0500
+
+    Refactor App component to reflect Quiz changes
+
+commit d0ef7f6eb4e7d110fa099a6a38eec1b9ee933d54
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 01:43:20 2020 +0500
+
+    Wrap result props into an object
+
+commit 4f30cc8bf500a4213c9a470580aa56fef6764208
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Dec 8 01:22:48 2020 +0500
+
+    Perform massive code refactoring in Quiz component
+
+commit ae0c99fa60aa794b9b246fb0fa9e2512dd09f035
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Dec 7 23:40:22 2020 +0500
+
+    Refactor "retakeQuiz" functionality
+
+commit 65bb2ebb12c802247777632f7b072f2c28544c02
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Dec 7 23:17:03 2020 +0500
+
+    Refactor quiz "options" rendering logic
+
+commit f6d43a15952512d68915665e50fab770b1c91967
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Dec 6 22:01:59 2020 +0500
+
+    Simplified Result component rendering logic
+
+commit f7f3fb3ff2979d739213bc4bd56c12874e2c49fc
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Dec 6 21:03:56 2020 +0500
+
+    Delete duplicate logic
+
+commit 63d68ba32942d587be89aab676c0e5d60e51235b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Dec 6 20:37:29 2020 +0500
+
+    Change variables names in Quiz component
+
+commit 565c80f10e97569cb96c7236ce4448f8cb852b9c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Dec 6 20:27:37 2020 +0500
+
+    Delete unused code
+
+commit 57df6863891159823c6c419858c70709610cf0a1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 5 23:57:53 2020 +0500
+
+    Refactor Result component to reflect Quiz changes
+
+commit 7ca4b79cb65ec28cd77f75bf0dcc937d5c0ee2e6
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 5 23:56:04 2020 +0500
+
+    Improve variables names in Quiz component
+
+commit 67cd9f9efd58b88bc7fbc5888326d51f03db14d6
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Dec 5 23:06:18 2020 +0500
+
+    Improve names of variables in App component
+
+commit 29bd40ad6a8874df4e35903f7817ddaf5fd78281
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Nov 19 20:58:39 2020 +0500
+
+    Fix utils export
+
+commit 02bdf09317b91fef3236bfb9908c0b702926d75f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Nov 16 00:55:30 2020 +0500
+
+    Refactor Quiz component
+
+commit 54ff0db6e28b1c249f54b7c3da6fbd2611f502a1
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 19:52:47 2020 +0500
+
+    Refactor Main component
+
+commit 6f4d0e543a10aa9994237d434ab8a1c57d842e0d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 19:33:50 2020 +0500
+
+    Refactor Header component
+
+commit 9c5964d6a18419f648b5dd4043f1ea1ba8ea90e8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 03:08:58 2020 +0500
+
+    Refactor App component
+
+commit cbf6cc06c95a989fd207cbb774edf7014766a33f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 01:31:07 2020 +0500
+
+    Refactor Result component
+
+commit a51b55d66cc95f593519b29a14a74e8a44f58c7e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 01:25:46 2020 +0500
+
+    Refactor Countdown component
+
+commit c718b49cc1375a249e11429b5a363a8379619c84
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Nov 15 01:20:32 2020 +0500
+
+    Refactor Loader component
+
+commit decfb08b55b81d9c4bbf0e3f6c415bbe09108578
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 21:38:03 2020 +0500
+
+    Refactor Offline component
+
+commit b48ce02fe1cc25bfcd194fb1123f0611fdc7c0db
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 19:49:10 2020 +0500
+
+    Refactor ShareButton component
+
+commit 439e37d419421eb75c169b2d9ce52d4b1e33f897
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 19:30:08 2020 +0500
+
+    Delete api constants
+
+commit b959533b0b296567125c2ff0f54643d02b820045
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 19:00:21 2020 +0500
+
+    Extract images from assets
+
+commit 1cb5cfca5b3c3e0dd7b10df4dfa1bc8f21add4ae
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:45:17 2020 +0500
+
+    Update App component test
+
+commit 25933fc665e5daa3409106a4bd4834520a2fe03a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:32:46 2020 +0500
+
+    Refactor constants index
+
+commit 379156db864eb24d3bbc4997ed677b3f3122537b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:29:32 2020 +0500
+
+    Refactor numOfQuestions constant
+
+commit ba9a5b4f69d10799c7b54ac7a2d39b3ae3302098
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:28:54 2020 +0500
+
+    Refactor countdownTime constant
+
+commit 122c41a7fdf921f81f7b33714270184d5877c2f4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:13:52 2020 +0500
+
+    Integrate utils library
+
+commit 0b841971b9dcacf4fafc973ffa4e615703520bc4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Nov 14 18:13:13 2020 +0500
+
+    Create utils library
+
+commit a27ce1cf37b20b1883daecaa32472e6dcabd5ef9
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 22:43:40 2020 +0500
+
+    Create robots.txt
+
+commit 6ec79f97b800d7cbd751cba7f302ef09bda28603
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 22:42:02 2020 +0500
+
+    Update index.js
+
+commit eced93cbd319d912d6ca5dda50fc1d54c0ea6e82
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 22:39:55 2020 +0500
+
+    Update serviceWorker
+
+commit d8985bfe8e7552d94f5b0e1c6f41eb586c6a23ef
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 22:37:56 2020 +0500
+
+    Setup tests with testing-library
+
+commit 9d74fec162f250f3d09c4aceb509645a69a89028
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 22:33:56 2020 +0500
+
+    Install testing-library
+
+commit eeaeb6bf22692c5d3498ace3f974e8a8d850b97b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Nov 13 21:28:06 2020 +0500
+
+    Update .gitignore
+
+commit a6f55443cad3cdea9a11577eb720e34a8f9eb969
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Feb 21 21:19:13 2020 +0500
+
+    Update README
+
+commit 9d000774c641de698b9595a792e4ba409e93a03e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Feb 21 21:11:24 2020 +0500
+
+    Update README
+
+commit 45ebbff74e6aac45f7f20cb5f03826ccb101a1ac
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Feb 10 22:25:52 2020 +0500
+
+    Release v4.3.0
+
+commit bf3d55f99ead02e043272f1ff777642385035a50
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Feb 10 22:22:38 2020 +0500
+
+    Update dependencies
+
+commit 9005fba275b1e8d371818371f7f00530a932038a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Feb 6 23:25:22 2020 +0500
+
+    Perform code formating
+
+commit 4b08b1c68853188aead79831078c9518066608e7
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Feb 5 23:24:43 2020 +0500
+
+    Update LICENSE
+
+commit c0cdf4bbed1fb2f24824767f22fee3ec8e0df939
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Feb 5 23:13:46 2020 +0500
+
+    Replace custom select wth semantic-ui component
+
+commit c65cdf3401969754845a0b8796c0d12c41262f44
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Feb 5 23:11:06 2020 +0500
+
+    Delete custom select component
+
+commit 8ee97551bac932fa64da1569d364fccb845e0a48
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Dec 4 20:04:12 2019 +0500
+
+    DRY start quiz button
+
+commit 0e80e685d783aeec03aaf12749965542e570d3fa
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Nov 28 21:37:18 2019 +0500
+
+    Release v4.2
+
+commit a26b43736d3128418441f4b2fb243eaec7491b75
+Merge: 8d3ae7d 8864040
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Sun Oct 20 23:09:35 2019 +0500
+
+    Merge pull request #6 from SafdarJamal/feature/web-share
+    
+    Add web sharing for mobile
+
+commit 8864040715ded3bb55685906cfb3759d489a0d13
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Oct 20 22:41:09 2019 +0500
+
+    Published 4.1
+
+commit e20cf202ba0c77d0a6ec14c97e454d71a5a7a238
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Oct 20 22:21:52 2019 +0500
+
+    ShareButton complete
+
+commit 35de74f5d2c630f25417ca281fc6fcef657c13b8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Oct 20 21:43:25 2019 +0500
+
+    Create ShareButton component
+
+commit 06ba59d68bd5d7bde8dc5cd8b1625c32a3439e7d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Oct 20 21:39:41 2019 +0500
+
+    Change button icon position
+
+commit 8d3ae7d910e8f5b4815b636b510a2a5fd94eb491
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Oct 13 22:07:19 2019 +0500
+
+    Include app-name meta
+
+commit bed9763cc85e5e807df9c85d0df6628ec66130e9
+Merge: e8bbd52 1282dae
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Oct 10 22:04:24 2019 +0500
+
+    Merge branch 'master' of https://github.com/SafdarJamal/quiz-app
+
+commit e8bbd523a14d5e072221be579ee2a5aeff466213
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Oct 10 22:02:59 2019 +0500
+
+    Update README Development Section
+
+commit 1282dae41d4dea917713fe2f73921af2a38e8f77
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Oct 10 22:02:15 2019 +0500
+
+    Update README.md
+
+commit 444e8621d4f99fbe6a1a942f9c21a7378bad970d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Oct 9 21:05:23 2019 +0500
+
+    Change manifest start_url property
+    to fix github pages deployment issue
+
+commit e40beca09236673bd244079b70e4a8ba1179db8e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Oct 9 15:12:57 2019 +0500
+
+    Change PWA Orientation
+
+commit f7a19e086f9bbd823e6439bd6aee55869ecaea4d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Oct 1 00:17:59 2019 +0500
+
+    Use getRandomNumber in Quiz component
+
+commit 205d0db4bf65889afdcdf05838e2bf8733509895
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Oct 1 00:09:24 2019 +0500
+
+    Create getRandomNumber util function
+
+commit c7445d90b161722bf1b1ee0aa03b17e61614d22f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 23:39:51 2019 +0500
+
+    Change PWA theme color
+
+commit cca58b935ba972645c850c7d7d9d8cd937fa2612
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 22:56:02 2019 +0500
+
+    v4.0 Deployed
+
+commit e36b1f9ac479586478943461df511cf4b0d08f8e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 22:46:34 2019 +0500
+
+    Update manifest and app icons
+
+commit 64ffb6e76bcfad919f1906eff0ea35b064e2ee03
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 21:25:29 2019 +0500
+
+    Update readme
+
+commit 29a9035f0053e51bc2100854b9903b7b5cd2bf94
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 21:15:23 2019 +0500
+
+    Code refactoring completed
+
+commit c6c33a156275772d4c439192e821cf1d79d72288
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 18:46:11 2019 +0500
+
+    Decoded options text
+
+commit ff38cb1ca9ac0f36856907cf4eedf44997f9fbcf
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Aug 30 17:16:25 2019 +0500
+
+    Remove segments raised prop
+
+commit 100cabb4dff77acaa521798d039f793a47d3fc21
+Merge: 43c1ba5 c1a78c5
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Thu Aug 29 23:48:18 2019 +0500
+
+    Merge pull request #5 from SafdarJamal/feature/answers-section
+    
+    Modularized Result Component and Create QA Section
+
+commit c1a78c5c796e61eae5ab124e3d6392e119fad41d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 23:28:12 2019 +0500
+
+    Fix QA Confusion
+
+commit f0c4d3ac7cdd1438193b9d1eaba385d24b49988d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 23:13:02 2019 +0500
+
+    Change result subcomponent name to Stats
+
+commit 4f51081ea4e751b96ba4b00eb2409bd2dd93e09d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 22:45:25 2019 +0500
+
+    QA setion created and basic data structured
+
+commit f815ed704fd019badaa0eb0cc431a529c81748fd
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 20:17:21 2019 +0500
+
+    Fix QA repetition
+
+commit f6a2b599b3f0d8e2b7a5141f49b93ef17d833f13
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 19:54:51 2019 +0500
+
+    Create calculateGrade a util function
+
+commit ec4c2e21365f260390e785763037669b44a81ecc
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Aug 29 19:23:43 2019 +0500
+
+    QA recorded and passed to result page
+
+commit e60342ca9b999b15ad518f87db8feaff4087f74f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Aug 28 20:46:08 2019 +0500
+
+    Make timeConverter a util function
+
+commit a41b7f3307ecfbdcd7e4f32e6486e5bc9b1511ca
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Aug 28 19:43:47 2019 +0500
+
+    Refactored whole app
+
+commit af310234fb8aeae708f45627a26169952b002b55
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Aug 27 19:47:05 2019 +0500
+
+    Update react
+
+commit 43c1ba51e24c1281058bb0e5bfbbb7bb18f08306
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Aug 4 23:31:47 2019 +0500
+
+    Update test file name
+
+commit f25eb2f68c0dd537ddb1d33dc967b28e55e34a12
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Aug 3 22:10:04 2019 +0500
+
+    Reorder demo links in readme
+
+commit adc758d78b8ddbc1fe718b168891b0b7998c3baa
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jul 10 01:03:22 2019 +0500
+
+    Add Versions Description
+
+commit 9f399e7b32f5f0145fc74bc1b703ea2cc66cc15b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jul 10 00:55:30 2019 +0500
+
+    Add All Versions Demo
+
+commit 6f88be8b2a947033bfb49069e1500efab1ca9602
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 13 18:37:56 2019 +0500
+
+    Resolve navigator.onLine issue
+
+commit db386c827f00089cc93d1765a34a8aa0f8c8df43
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Wed Jun 12 23:58:07 2019 +0500
+
+    Update README.md
+
+commit a0f4cf3dcf30e40516d60f988d48fb9ce588c282
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jun 10 00:17:48 2019 +0500
+
+    Fix github pages bug
+
+commit 6fa0771a5d13f3cb0ba1efcc4c24747b820d3a56
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 23:54:08 2019 +0500
+
+    Update readme image
+
+commit 337fa4a0f7cc68c8b0437428f7cd6f8980dd39dc
+Merge: 4890f31 d6561b7
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Sun Jun 9 23:44:18 2019 +0500
+
+    Merge pull request #4 from SafdarJamal/building-pwa
+    
+    Convert this App to PWA
+
+commit d6561b798771caa7af69663c3fe3de38f6db6336
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 23:25:29 2019 +0500
+
+    Fix console
+
+commit 4d35db1743278b1579a8ca7fd1e55728ec40aee8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 23:11:21 2019 +0500
+
+    Delete Placeholder component
+
+commit 1a492fd2caeef19a5404950e51041276f738e01c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 23:10:42 2019 +0500
+
+    Consistent export
+
+commit a0c5588cea61bf6e587563a9ed936c151264147c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 23:04:50 2019 +0500
+
+    Create offline function
+
+commit 305c819c41b39ea1aa843b1147a51b792a63832c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 22:53:37 2019 +0500
+
+    Create Offline component
+
+commit 8685676dbd3b624ac1c70f3c88fff1cf99fbd27a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 22:09:12 2019 +0500
+
+    Off the service-worker consoles
+
+commit 99a5e5d4680a6a1e036d383477f661d51fbcbbce
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 22:06:41 2019 +0500
+
+    Done with result page
+
+commit e5b09bd8ec48ba5b06ca1dbc9a2e6b067c4538be
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 21:50:23 2019 +0500
+
+    Parseint to calculate floating point number
+
+commit a60ece5f0df14e54e4a6a806130ba9ab37766506
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 21:33:08 2019 +0500
+
+    Create grading sysytem
+
+commit 70ef03893e230488c275a96b4a1c39037967af14
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 9 21:12:06 2019 +0500
+
+    Delete Main scoring segment
+
+commit ede454631fafda1d8cc05101f9f79d86e0b62890
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jun 7 01:10:40 2019 +0500
+
+    Modified Result for new content
+
+commit 049994a76c806c779ef288d86b5379f1b6bd0568
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri Jun 7 00:40:18 2019 +0500
+
+    Write message for response_code: 2
+
+commit 7010f45e7dd67fb50933d9bddd494a11fd6febfc
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 19:50:09 2019 +0500
+
+    Encoded text succesfully decoded by he.js
+
+commit 1b47946289e0b29ecae06adb6955449e3f1695d2
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 19:28:04 2019 +0500
+
+    Install he.js to decode text
+
+commit 8414ae166f73df4cd623a418e46a6daa234440fd
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 18:21:35 2019 +0500
+
+    Remove App component shell
+
+commit 80ea4db3c60097780420ad9f8269c6d38cf867ed
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 17:14:09 2019 +0500
+
+    Countdown dynamic time
+
+commit 45e2756de8c8b7b26197b2af15c2863854a75728
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 16:37:01 2019 +0500
+
+    Data fetched in Quiz
+
+commit 7f0bd38b2a3d8c8b60f1adf425ff78e5763919ee
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 15:51:58 2019 +0500
+
+    Change api folder
+
+commit 60df0a955d1bbf40502dde41ad21802d494f6736
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 14:45:49 2019 +0500
+
+    Slected values taken into startQuiz func
+
+commit 00956567f8ce9842deb54dfd1cba406fe5f06253
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 00:35:25 2019 +0500
+
+    Fields value Set in state
+
+commit ee462c1793f316b709b05048fae242641da36419
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu Jun 6 00:02:02 2019 +0500
+
+    Create API const
+
+commit 80276cbaa33b7d778a1fba2059aefa5df32336a6
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 23:04:27 2019 +0500
+
+    Replace Loader with Placeholder for App shell
+
+commit 8e69c9ff69adf64169eaf27f38e409130fba1e6c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 22:34:21 2019 +0500
+
+    Remove MainContent Segments
+
+commit 8039e3377ba532430278dfbf231d5b8c5e5b97d8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 20:44:02 2019 +0500
+
+    Create
+    Select numOfQuestions
+
+commit 92e88a43e6b8e7a5461b176e70a18cbc2c9e5a50
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 20:02:53 2019 +0500
+
+    Create Select questionsType
+
+commit 6e69c8c5e7044ef2ff71a96b15627f2673183e89
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 19:53:22 2019 +0500
+
+    Create Select difficulty
+
+commit ba1aa753eba426abc5cdec40b0bc84a63c8c545d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 19:38:32 2019 +0500
+
+    Create constants for categories
+
+commit e50a4babb60bb4bad415dd897e396712f976642d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Wed Jun 5 18:23:18 2019 +0500
+
+    Change App.test file location
+
+commit 2eb88acd0374deff3cad007713a88d30a317ab58
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 21:58:48 2019 +0500
+
+    Create Select component
+
+commit 29ebc145a6429b7a924d8891272707a00938783f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 21:52:52 2019 +0500
+
+    Create PlaceHolder component
+
+commit 560656da1c4123082e02fbaa98cbdcdb3a7f81ce
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 20:56:20 2019 +0500
+
+    Change serviceWorker console
+
+commit 52f37ffb9dbfb91084bd380cce6af1a6ed9bc89f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 16:59:16 2019 +0500
+
+    Off the pwa consoles
+
+commit 4f4307b8bacf5e31e7d8111618e5fe81e973d3fe
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 02:24:46 2019 +0500
+
+    installPrompt bug fix
+
+commit 622e84164f943b8980f6d05f51bf4208abb9e66a
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 01:26:39 2019 +0500
+
+    Set propmtEvent in state
+
+commit 9023ab4be776a409986bfb89c6daff4310595b3e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 00:44:27 2019 +0500
+
+    Convert Header to class component
+
+commit df3b103906c35ec766f84646409b576bc3260038
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue Jun 4 00:27:34 2019 +0500
+
+    Write function for install event
+
+commit a1a3655476e0df81b974aa3de10b591af32dfd51
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jun 3 21:05:26 2019 +0500
+
+    Rebuild header acording to pwa
+
+commit 5e96a0df3243bd3be475dfc53d2c076712d51752
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jun 3 00:38:04 2019 +0500
+
+    Again change theme color
+
+commit d1fae7c772c3dd24cf4ccaa9710872f66746c5e8
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jun 3 00:30:08 2019 +0500
+
+    Add extra icons
+
+commit 4811f90d1e57cb9a35a11a01b9e26a583b0ace2c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Mon Jun 3 00:09:16 2019 +0500
+
+    Create Icons shadow
+
+commit a57052eb58e6d3887de1af29b30ba5ef572c39f2
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 2 22:45:08 2019 +0500
+
+    Optimize performance
+
+commit 66d533ad97623c5fae15c53aee82798817354e63
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 2 22:15:16 2019 +0500
+
+    homepage prop bug fix
+
+commit 273e37be904d976a81381160d38a5b4892d45108
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 2 20:02:50 2019 +0500
+
+    Testing pwa on localhost
+
+commit f3db7163acc0a4361015038278753f8adc772548
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun Jun 2 19:45:50 2019 +0500
+
+    Change theme color
+
+commit 4890f31bed0a25bf7c6f67f638805f9393bfd062
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 23:48:28 2019 +0500
+
+    Configured manifest.json
+
+commit 458b796aba60555c0627bc2ca30094f0fb379e98
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Sat Jun 1 23:05:21 2019 +0500
+
+    Update README.md
+
+commit e880cde35c231edcb9ad16a917a165f8b18c6b08
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 23:04:22 2019 +0500
+
+    Center readme image
+
+commit 1b4fde12ab6219623be71898429f0450dad6dcbd
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 22:59:10 2019 +0500
+
+    Add image in readme
+
+commit 4094f453190fe72116f8db1843046fd0a04f2f34
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 22:47:54 2019 +0500
+
+    Test complete now moving to production
+
+commit 28254bde4305ca4f4c5a474234a3f516a400a2cb
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 22:04:27 2019 +0500
+
+    Change Result buttons
+
+commit 9d46d25c42a691b1cc900ab4025e553a5f400a3b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 21:48:21 2019 +0500
+
+    Main play button ui changed
+
+commit dd3a3362229b04949ab175bc0c173d0a52d8cf94
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 21:36:51 2019 +0500
+
+    Change result time view
+
+commit 38fa830d53f56b4d201e80e800cf832d375bb051
+Merge: 290fb66 b395554
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Sat Jun 1 20:31:33 2019 +0500
+
+    Merge pull request #3 from SafdarJamal/feature/countdown-timer
+    
+    Added Countdown Timer and UI UX Improvement
+
+commit b3955546dc3bd209f87ad0fc81f3d5503f07f476
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 19:46:08 2019 +0500
+
+    Function tested
+
+commit 4149cfe06269dc1457b6e120b7199d6669c51d1d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 18:06:40 2019 +0500
+
+    Time taken
+
+commit 5484a7f9dab6160bf67b6c38019a5d0bbd804228
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 02:35:38 2019 +0500
+
+    Async bug fix
+
+commit a05e251673049bb104ce2b2ff16ba68658cf897c
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 01:16:03 2019 +0500
+
+    timesUp function correctly
+
+commit 0181f63ff257a530f9b0d9c1883ed09e7f97cfda
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sat Jun 1 00:51:44 2019 +0500
+
+    Heading UX
+
+commit 8ba0f8ad91ec5e21d2952b7778b6210c37ab7965
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri May 31 23:58:26 2019 +0500
+
+    Timer floated right
+
+commit 290fb6629b00a032821a66dc897f1f1dde2bca5f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri May 31 22:47:53 2019 +0500
+
+    Create beautiful timer but its time for new branch
+
+commit 56201283a0c015198970e26c42403047ccb44e3f
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri May 31 22:19:12 2019 +0500
+
+    Timer flow
+
+commit e1e49759874216fd7c45f89855acd95d181c3dc6
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri May 31 21:50:16 2019 +0500
+
+    Countdown tested
+
+commit 261200994bf571c1c5bd30d1965a3c08f4b1cf3b
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Fri May 31 21:33:26 2019 +0500
+
+    Create Countdown
+
+commit 3818197e828a17b32202304ed260be9d4bfe38c2
+Merge: 3d6bd55 a786ce9
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Thu May 30 21:59:04 2019 +0500
+
+    Merge pull request #2 from SafdarJamal/code-organization
+    
+    Code organization
+
+commit a786ce91b3af61fa079137e16454f0c8041fa4f0
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:49:22 2019 +0500
+
+    Remove hot.module
+
+commit 0615e41af37c978fffe66728e771d7c4120fcdc3
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:38:43 2019 +0500
+
+    Delete old code structure
+
+commit 48710b4203a27d920d93b3064dcf45b9b2d6bc0e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:31:19 2019 +0500
+
+    Correct Quiz links
+
+commit 7677298dd3a3ca4a33c65ea28fe52307f77decfa
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:28:26 2019 +0500
+
+    Create seperate folder for images
+
+commit 3d5b0ad6b0ebba984b14db3af0b6196a84a698a9
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:25:21 2019 +0500
+
+    Correct links in App
+
+commit 2a2a1f1bbdace5c801e52e5044ee6bc30c1ffe50
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:21:24 2019 +0500
+
+    Move Result
+
+commit 30d20e3715f1ea72525d8b49e71c46621a447fd4
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:20:13 2019 +0500
+
+    Move Quiz
+
+commit 1f56f70293917d50d2da84e3c627de31fdfca896
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:19:03 2019 +0500
+
+    Move Main
+
+commit b495491d24c977e698db25f93d652f96b6c53a4e
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:18:20 2019 +0500
+
+    Move Loader
+
+commit 0d5ae41ef0b895b94ec387dedad104b674f21460
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:17:39 2019 +0500
+
+    Move Header
+
+commit 5c925cc6ccc0e7d79c00f1c4c5543540f8ea6bab
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Thu May 30 21:15:48 2019 +0500
+
+    Create folder structure
+
+commit 3d6bd5555657089aa63129cd5ff9c3574066c245
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Sun May 26 23:32:59 2019 +0500
+
+    Update react-scripts
+
+commit b52bf2bea69e506eed4c8b11f98963844f66566a
+Merge: 2d807bf 31132fc
+Author: Safdar Jamal <48409548+SafdarJamal@users.noreply.github.com>
+Date:   Sun May 26 22:20:19 2019 +0500
+
+    Merge pull request #1 from SafdarJamal/countdown-timer
+    
+    Fix height width and change result ui
+
+commit 31132fce711bef1930c5c2614f28d5bdcd0c7e9d
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue May 14 19:59:37 2019 +0500
+
+    Update readme
+
+commit 2d807bfa35260541163a4e3f2e05d58594f40fdc
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue May 14 19:57:20 2019 +0500
+
+    Update readme
+
+commit d5cb6720bfcd3ed8c747d02723cd9f54a2dab028
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue May 7 16:08:58 2019 +0500
+
+    Modified homepage url
+
+commit 7d42d892a202137bdf19a4d991a038145363cbbb
+Author: Safdar Jamal <safdar.dev@gmail.com>
+Date:   Tue May 7 16:03:45 2019 +0500
+
+    Modified homepage url
+
+commit ff0f00f9ba39185d99cb0ac9065a86a3e15d9e06
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 29 19:16:10 2019 +0500
+
+    Change Result label and add bottom margin
+
+commit 226f901f2a04453d1a0ce1b9b91ee3b10f7c591b
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 19:34:12 2019 +0500
+
+    Deployed v1.0
+
+commit 2f8b88a83ebed239e7eee4b9b8cdd6af4cab7644
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 19:11:11 2019 +0500
+
+    QA test completed, App performed outstanding.
+
+commit 8b46df8985a822ce01c9f2a6b320f0045c9b4bb5
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 18:23:09 2019 +0500
+
+    Commit all consoles
+
+commit fc5d0ac2c992034f307cd964df6ab0b7a6c25233
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 18:17:53 2019 +0500
+
+    Change timeout seconds
+
+commit 2933ba52a5769a8492c10eb0ce4f99b88b6eea55
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 17:57:42 2019 +0500
+
+    Correct main heading
+
+commit 0140cac07dd4aa7b3f15650255a4a2fefc1c3262
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 17:53:36 2019 +0500
+
+    Added button icons
+
+commit aed4f5bb2de72231131606cf7ce88c7c114a16b8
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 17:32:35 2019 +0500
+
+    Added favicon
+
+commit 7a59653f9795d146291240cd80c3abdf79ad22b5
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Wed Apr 24 16:28:04 2019 +0500
+
+    Development for v1.0 completed
+
+commit c014808680c9ed668181af3929e1fc69138df236
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 23:48:30 2019 +0500
+
+    Quiz restarting correctly
+
+commit a94101cc769990d7381a1971c65c39a9172ebaef
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 23:00:32 2019 +0500
+
+    Added raised prop
+
+commit a5fc0cd9eea8a9c2f4ad453b51a20e70295b9f94
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 22:49:21 2019 +0500
+
+    Application is working fine
+
+commit 1ab1f3f1cd533a3532b751fb670cab397604e663
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 22:24:42 2019 +0500
+
+    Succesfully rendering result component
+
+commit aefd1e691e8603771c8d073f3de99253eec36aa7
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 20:55:24 2019 +0500
+
+    Routing result
+
+commit d35d85dd1817921220427e2242edc3c3474461e3
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 19:31:35 2019 +0500
+
+    Result component created
+
+commit 959b1218f88f94ad4333bb4c1d043ba0ac9abb1c
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 18:01:38 2019 +0500
+
+    Refactor the code
+
+commit beb87403a45cd1db5dfdd54afb8ac7c1abec9b69
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 17:41:31 2019 +0500
+
+    Close enough to MVP
+
+commit 8d6630df70a3024b455e1ca2ba395b087cca46a0
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 16:45:03 2019 +0500
+
+    Set questionIndex state
+
+commit b57d7717a7e3e2e8fc535eb3b6929bdcdec497fe
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 16:37:48 2019 +0500
+
+    Options printing dynamically
+
+commit dac06b38f0f07a394cd6869c582a0e14a2c54546
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 16:10:01 2019 +0500
+
+    Rendom number generated
+
+commit 709a339710a7dcc10fd4f5815c4681edb4fe7fbf
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 15:23:25 2019 +0500
+
+    Its time to add animation
+
+commit ea4cc69385735d4ab796b342bcf4d206a83fcc46
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 14:41:28 2019 +0500
+
+    Loader added in Quiz
+
+commit 591a1212eb2b678860735f1e5e7a32cf50e31082
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 13:28:34 2019 +0500
+
+    Changed button size and added conditional rendering
+
+commit 4522a7530a94487a0a31c15a865c4b38d2b64fc0
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Tue Apr 23 00:09:32 2019 +0500
+
+    After adding Menu component answers ui changed
+
+commit 002c0456db408ab6a6d3ec896b19a5528588ab74
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 22 22:27:33 2019 +0500
+
+    Remove code picture from quiz
+
+commit b9b734b14f6bbfd9748f9587018bdd374195f635
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 22 22:06:27 2019 +0500
+
+    Question1 ui is ready
+
+commit 4b6db0d714f7344c983567921ae7b85df1e61f40
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 22 18:42:05 2019 +0500
+
+    Routed to Quiz.jsx
+
+commit b2ecb6ca74252445f7fb76f0a3411378889acf48
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 22 18:27:15 2019 +0500
+
+    Implement loader to fetch data while loading
+
+commit c8be1c423097ff2746bf0634af6c2787be6bed8a
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Mon Apr 22 14:04:37 2019 +0500
+
+    Changed home page ui
+
+commit 9c4715c7860908d95ed757e0eadd671337f180fc
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 22:24:56 2019 +0500
+
+    Home page created
+
+commit fb9a17ad6b3cd600f71d824179c2f4ee94999112
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 18:29:35 2019 +0500
+
+    Added semantic-ui
+
+commit 6d89eaf1722dbaa58211682e99559259ccce51a0
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 18:01:33 2019 +0500
+
+    Update readme
+
+commit c5f4e1e56961888ac86d441b1e90dd9a131bb2dc
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 18:00:07 2019 +0500
+
+    Open sourced
+
+commit 9969416375dafbcc3bc238656d1113eae7944232
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 17:58:25 2019 +0500
+
+    Get started
+
+commit 4df5eec048883c29691cbdaed527540786248a72
+Author: Safdar Jamal <cleverprogrammer.me@gmail.com>
+Date:   Sun Apr 21 17:41:10 2019 +0500
+
+    Initial commit from Create React App
