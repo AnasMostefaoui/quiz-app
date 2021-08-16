@@ -1,7 +1,7 @@
 {
   "short_name": "Exam-app",
   "name": "Exam-app",
-  "description": "Exam-app is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.",
+  "description": "Exam-app is a free and open-source exam preparation platform that lets you play fully customized quizzes right in the browser.",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
