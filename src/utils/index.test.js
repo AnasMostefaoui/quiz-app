@@ -10,6 +10,7 @@ describe( 'timeConverter', () => {
     } )
     it( 'returns null on invalid input', () => {
         expect( timeConverter('ss') ).toBeNull()
+        expect( timeConverter(null) ).toBeNull()
     } )
 } )
 
