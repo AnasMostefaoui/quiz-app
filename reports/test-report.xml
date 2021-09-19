@@ -2,12 +2,12 @@
 <testExecutions version="1">
     <file path="/Users/mostefaouim/Development/agile-project-univ/quiz-app/src/utils/index.test.js">
         <testCase name="timeConverter returns hours, minutes and seconds on valid input" duration="2"/>
-        <testCase name="timeConverter returns null on invalid input" duration="0"/>
+        <testCase name="timeConverter returns null on invalid input" duration="1"/>
         <testCase name="calculateGrade returns A+ and you pass for any grade &gt;= 97 on valid input" duration="0"/>
-        <testCase name="calculateGrade returns A and you pass for any grade &gt;= 93 &lt;= 96 on valid input" duration="1"/>
-        <testCase name="calculateGrade returns A- and you pass for any grade &gt;= 90 &lt;= 92 on valid input" duration="1"/>
+        <testCase name="calculateGrade returns A and you pass for any grade &gt;= 93 &lt;= 96 on valid input" duration="0"/>
+        <testCase name="calculateGrade returns A- and you pass for any grade &gt;= 90 &lt;= 92 on valid input" duration="3"/>
         <testCase name="calculateGrade returns null on invalid input" duration="0"/>
-        <testCase name="getLetter returns a letter based on valid input" duration="1"/>
+        <testCase name="getLetter returns a letter based on valid input" duration="0"/>
         <testCase name="getLetter returns null on invalid input" duration="0"/>
         <testCase name="calculateScore returns score on valid input" duration="1"/>
         <testCase name="calculateScore returns null on invalid input" duration="0"/>
